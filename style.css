@@ -91,3 +91,39 @@ hr{
     width: 600px;
 
 }
+.para{
+    text-align: center;
+    padding: 2px 25%;
+}
+.donate-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.food{
+    width: 25%;
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+}
+
+.shelter{
+    width: 25%;
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.education{
+    width: 25%;
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+}
+.donate-icon{
+    height: 50px;
+    width: 50px;
+}
