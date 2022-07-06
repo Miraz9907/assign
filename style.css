@@ -186,3 +186,15 @@ form{
     border-radius:2px;
     
 }
+footer{
+    text-align: center;
+    background-color: black;
+}
+footer h1{
+    color: brown;
+
+}
+footer h5{
+    color: white;
+    margin-bottom: -20px;
+}
