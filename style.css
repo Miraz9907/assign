@@ -127,3 +127,33 @@ hr{
     height: 50px;
     width: 50px;
 }
+
+.donation{
+    display: flex;
+    margin-bottom: 100px;
+    padding: 50px;
+   
+}
+.donation2{
+    display: flex;
+    margin-bottom: 100px;
+    padding: 40px;
+   
+}
+.half-width{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+.half-width img{
+    width: 80%;
+    height: 400px;
+}
+.half-width p{
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 40px;
+}
+.half-width a{
+   margin-left: 40px;
+}
