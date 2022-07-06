@@ -157,3 +157,32 @@ hr{
 .half-width a{
    margin-left: 40px;
 }
+
+.set-update{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+form{
+    padding: 50px 120px;
+    background-color: rgb(252, 233, 210);
+}
+.email{
+    color: rgb(129, 129, 129);
+    margin-right: 0px;
+    padding: 10px;
+    border: 1px solid rgb(129, 129, 129);
+    background-color: rgb(215, 214, 214);
+}
+.subscribe{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px;
+    margin-left: -5px;
+    border: 1px solid tomato;
+    border-radius:2px;
+    
+}
